@@ -35,10 +35,6 @@ python src/bibliometrics.py
 pytest -q tests
 ```
 
-## Limits
-
-Regular expression flags can miss studies that describe a method in unusual words, and they can flag a method that is only mentioned in passing. The counts show broad patterns, not an exact census.
-
 ## Author
 
 Hammed Akano, Deakin University. MIT licence.
