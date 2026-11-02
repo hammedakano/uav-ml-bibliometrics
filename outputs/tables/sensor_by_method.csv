@@ -1,0 +1,6 @@
+,Random forest,Support vector machine,Gradient boosting,Neural network (shallow),Deep learning
+RGB,31,19,7,4,28
+Multispectral,41,27,9,5,17
+Hyperspectral,16,7,1,2,9
+LiDAR,23,10,4,3,9
+Thermal,2,0,1,0,0
